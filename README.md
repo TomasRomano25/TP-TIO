@@ -1,2 +1,2 @@
-# prueba
-mi primer proyecto con git
+# TP TIO
+Proyecto TIO 2020
